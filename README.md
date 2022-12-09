@@ -1,3 +1,3 @@
 # Weather-
 Weather Conditions
-![Hava durumu.png](Weather)
+![](Hava durumu.png) 
